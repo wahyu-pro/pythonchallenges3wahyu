@@ -6,7 +6,8 @@ class Cipher:
         message = arg1
         ciphertext = encrypt(password, message)
         return ciphertext
-
+    
+    @staticmethod
     def decrypt(arg1, message):
         chip = decrypt(arg1, message)
         return chip
