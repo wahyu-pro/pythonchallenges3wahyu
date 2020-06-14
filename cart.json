@@ -1,0 +1,12 @@
+[
+    {
+        "item_id": 2,
+        "price": 30000,
+        "quantity": 3
+    },
+    {
+        "item_id": 3,
+        "price": 30000,
+        "quantity": 3
+    }
+]
