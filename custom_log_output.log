@@ -1,5 +1,5 @@
-2020-06-14 16:54:33: (003.py): INFO: main Line: 39 - This is an information about something
-2020-06-14 16:54:33: (003.py): ERROR: main Line: 40 - We can't divide any numbers by zero
-2020-06-14 16:54:33: (003.py): WARNING: main Line: 42 - Insufficient funds.
-2020-06-14 16:54:33: (003.py): DEBUG: main Line: 43 - This is debug message.
-2020-06-14 16:54:33: (003.py): CRITICAL: main Line: 44 - Medic!! We've got critical damages.
+2020-06-14 19:55:17: (003.py): INFO: main Line: 15 - This is an information about something
+2020-06-14 19:55:17: (003.py): ERROR: main Line: 16 - We can't divide any numbers by zero
+2020-06-14 19:55:17: (003.py): WARNING: main Line: 18 - Insufficient funds.
+2020-06-14 19:55:17: (003.py): DEBUG: main Line: 19 - This is debug message.
+2020-06-14 19:55:17: (003.py): CRITICAL: main Line: 20 - Medic!! We've got critical damages.
