@@ -52,6 +52,7 @@ class Cart:
         toJson = json.dumps(myObj, indent=4)
         fwrite = open("cart.json", 'w')
         fwrite.write(toJson)
+        self.items.clear() # hapus semua data ketika semua sudah di checkout
     
 
 
